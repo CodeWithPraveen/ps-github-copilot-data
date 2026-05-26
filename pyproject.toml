@@ -1,0 +1,9 @@
+[project]
+name = "globomantics-checkout"
+version = "0.1.0"
+description = "Demo codebase for the GH-300 GitHub Copilot Pluralsight course."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
