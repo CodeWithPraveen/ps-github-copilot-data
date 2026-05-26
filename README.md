@@ -1,4 +1,4 @@
-# globomantics-checkout
+# Globomantics Checkout Service
 
 Demo codebase for the Pluralsight course **GH-300: Understanding GitHub Copilot Data and Architecture**.
 
